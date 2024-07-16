@@ -25,4 +25,37 @@
 ---
 ## Para saber mas: profundizando en HTML y CSS 
 
-1.- [HTML, CSS y JavaScript - Las diferencias - (Gratuito, Español, Texto)](https://www.aluracursos.com/blog/html-css-javascript-cuales-son-las-diferencias)
+1.- [www.w3schools.com/](https://www.w3schools.com/css/default.asp)
+
+2.- [MDN](https://developer.mozilla.org/es/docs/Web/CSS)
+
+---
+# Reset CSS
+    * normalize
+    * reset CSS
+
+    width + padding + botder = actual width of a element
+    height + padding + botder = actual height of a element
+
+    box-sizing : content-box;
+        Este código refleja el problema, es decir, no cambia exactamente nada en relación con la imagen anterior, donde el relleno hace que la imagen (elemento hijo) sobrepase el límite del contenido (elemento padre).
+
+    box-sizing : border-box;
+        En este caso, la imagen (elemento hijo) "se encojería" y se ajustaría al tamaño del contenido (elemento padre). Esto ocurre porque el border-box le indica al navegador que tenga en cuenta cualquier borde y relleno en los valores especificados para el ancho y el alto de un elemento.
+---
+# Saber mas: guia Flex
+
+[Guia completa de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
+# Google Fonts
+
+[Saber mas sobre import Google fonts](https://developers.google.com/fonts/docs/getting_started?hl=es-419)
+
+# Saber mas sobre propiedades importantes
+
+## Gap
+    
+    La propiedad gap no es exclusiva de Flexbox, sin embargo, se utiliza casi siempre en conjunto con él. Esta propiedad especifica en CSS el tamaño de los espacios entre filas y columnas en diseños de cuadrícula, flex y de varias columnas. Su sintaxis es bastante simple y acepta uno o dos valores.
+
+[CSS-tricks](https://css-tricks.com/)
