@@ -59,3 +59,4 @@
     La propiedad gap no es exclusiva de Flexbox, sin embargo, se utiliza casi siempre en conjunto con él. Esta propiedad especifica en CSS el tamaño de los espacios entre filas y columnas en diseños de cuadrícula, flex y de varias columnas. Su sintaxis es bastante simple y acepta uno o dos valores.
 
 [CSS-tricks](https://css-tricks.com/)
+---
