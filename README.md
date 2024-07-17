@@ -4,7 +4,7 @@
 
 
 [figma del proyecto](https://www.figma.com/design/D464FfN417KSWJHIUVpMnX/Portafolio---Curso?node-id=1-11&t=63DLdGLQvZde0SEM-0)
-
+[figma del proyecto- parte 2](https://www.figma.com/design/aZDoYMn8lnME4tc6130S7w/Portafolio---Curso-3-(Copy)?node-id=42-5&t=Ag53xOaBKoRpD6NE-0)
 ---
 ## ¿Qué es Emmet?
 
@@ -71,4 +71,4 @@ El hover se utiliza para seleccionar elementos cuando pasas el ratón sobre ello
 [https://colorhunt.co/](https://colorhunt.co/)
 [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)
 ---
-# Responsivo
+# Responsive
