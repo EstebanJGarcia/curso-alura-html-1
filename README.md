@@ -46,12 +46,11 @@
 # Saber mas: guia Flex
 
 [Guia completa de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-
+---
 # Google Fonts
 
 [Saber mas sobre import Google fonts](https://developers.google.com/fonts/docs/getting_started?hl=es-419)
-
+---
 # Saber mas sobre propiedades importantes
 
 ## Gap
@@ -60,3 +59,16 @@
 
 [CSS-tricks](https://css-tricks.com/)
 ---
+# Hover
+
+El hover se utiliza para seleccionar elementos cuando pasas el ratón sobre ellos. Esta y otras informaciones útiles sobre el hover las puedes encontrar en la documentación =)
+[Mas sobre el Hover](https://www.w3schools.com/CSSref/sel_hover.php)
+---
+# Color Hunt,  VARIABLES CSS
+
+    Optimizar nuestra paleta de colores
+
+[https://colorhunt.co/](https://colorhunt.co/)
+[https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)
+---
+# Responsivo
