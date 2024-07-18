@@ -31,7 +31,7 @@ body{
 }
 
 .header__menu__link{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fuente-montserrat);
     font-weight: 600;
     color: var(--color-terciario);
@@ -43,10 +43,11 @@ body{
     align-items: center;
     padding: 6% 15%;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .presentacion__contenido{
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -54,7 +55,7 @@ body{
 }
 
 .presentacion__contenido__titulo{
-    font-size: 36px;
+    font-size: 2rem;
     font-family: var(--fuente-krone);
 }
 
@@ -63,7 +64,7 @@ body{
 }
 
 .presentacion__contenido__parrafo{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fuente-montserrat);
 }
 
@@ -77,19 +78,19 @@ body{
 
 .presentacion__enlaces__subtitulo{
     font-family: var(--fuente-krone);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
 .presentacion__enlaces__link{
     display: flex;
-    width: 378px;
+    width: 50%;
     color: var(--color-segundario);
     text-align: center;
     padding: 21.5px 0;
     border-radius: 8px;
     font-family: var(--fuente-montserrat);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
     border: 2px solid var(--color-terciario);
@@ -101,12 +102,40 @@ body{
     background-color: var(--color-hover);
 }
 
+.presentacion__imagen{
+    width: 50%;
+}
+
 .footer{
     background-color: var(--color-terciario);
     color:var(--color-primario);
     text-align: center;
     padding: 24px;
     font-family: var(--fuente-montserrat);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
+}
+
+@media (max-width: 1200px){
+
+    .header{
+        padding: 10%;
+    }
+
+    .header__menu{
+        justify-content: center;
+        gap: 80px;
+    }
+
+    .presentacion{
+        flex-direction: column-reverse;
+        align-items: center;
+        padding: 6% 5%;
+        justify-content: space-between;
+        gap: 82px;
+    }
+
+    .presentacion__contenido{
+        width: auto;
+    }
 }

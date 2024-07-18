@@ -72,3 +72,16 @@ El hover se utiliza para seleccionar elementos cuando pasas el ratón sobre ello
 [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)
 ---
 # Responsive
+
+## Unidades de medidas relativas
+
+[css_units](https://www.w3schools.com/cssref/css_units.php)
+
+## Media Queries
+
+Documentacion de 
+
+[media-queries](https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+
+[css-flexbox-layouts-responsivos](https://app.aluracursos.com/course/css-flexbox-layouts-responsivos?utm_source=gnarus&utm_medium=timeline)
+
