@@ -85,3 +85,20 @@ Documentacion de
 
 [css-flexbox-layouts-responsivos](https://app.aluracursos.com/course/css-flexbox-layouts-responsivos?utm_source=gnarus&utm_medium=timeline)
 
+---
+
+# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+
+## Herramientas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Hecho por:
+
+### Esteban Garcia - original de Ana García
+
+### Linkedin: https://www.linkedin.com/school/aluracursos/
